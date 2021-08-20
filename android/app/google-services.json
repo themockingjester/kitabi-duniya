@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "41995946687",
+    "project_id": "old-shelves",
+    "storage_bucket": "old-shelves.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41995946687:android:5d904bf8bab41a1a2ed40a",
+        "android_client_info": {
+          "package_name": "com.themockingjester.oldshelvesupdated"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41995946687-fmuc18jdj696uo0br0them02bfu7cndq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.themockingjester.oldshelvesupdated",
+            "certificate_hash": "21490d8aeea187de979aed8ceb559b44471a5852"
+          }
+        },
+        {
+          "client_id": "41995946687-o5och0i9098keahdjodkjh1lljsuibmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI9abOAHSv1iiIJM6yt1Nku9rNyQRAz4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41995946687-o5och0i9098keahdjodkjh1lljsuibmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
