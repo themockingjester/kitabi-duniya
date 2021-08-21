@@ -1,7 +1,17 @@
 # kitabi dunia
 
-link to the app:-  https://drive.google.com/file/d/13Z3jZmsoX-ONbExSraf1OC7lPcYpAcxh/view?usp=sharing
+link to the app:-  https://drive.google.com/file/d/1PgYE0T9NojszBj2MfgNqM9f-XMCk371t/view?usp=sharing
 A project for selling and purchasing old books.
+
+## Features of the app
+#### this is a fully asynchronous app(means data loads fully asynchronously).
+#### you can easily search books that are available on this app.
+#### it recommends you also the best suitable book for you.
+#### you can purchase book either in bulk or single also.
+#### you can also sell your book here(note if you don't have access to admin panel then which ever book you will upload it can't be added directly to server it first sent for verification).
+#### has awsome delivery panel system
+#### you can do whatever with book for example you can like it,dislike and add to your cart too.
+#### it is a fully realtime application.
 
 ## Some shots of the app
 
