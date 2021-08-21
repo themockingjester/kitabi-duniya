@@ -4,7 +4,7 @@ link to the app:-  https://drive.google.com/file/d/10l0eBTOt-Lmwp8I5wBUrPbzLxr5e
 
 link to demo video:- https://drive.google.com/file/d/1_f7r69fIW-LWhC7jyx7xSuvap2vyFeM0/view?usp=sharing
 
-A project for selling and purchasing old books.
+A project for selling and purchasing books.
 
 ## Features of the app
 #### this is a fully asynchronous app(means data loads fully asynchronously).
