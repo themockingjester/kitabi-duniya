@@ -1,5 +1,5 @@
 name: oldshelvesupdated
-description: A project for selling and purchasing old books.
+description: A project for selling and purchasing books.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
