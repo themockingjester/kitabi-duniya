@@ -1,6 +1,9 @@
 # kitabi dunia(Android App)
 
 link to the app:-  https://drive.google.com/file/d/1PgYE0T9NojszBj2MfgNqM9f-XMCk371t/view?usp=sharing
+
+link to demo video:- https://drive.google.com/file/d/1_f7r69fIW-LWhC7jyx7xSuvap2vyFeM0/view?usp=sharing
+
 A project for selling and purchasing old books.
 
 ## Features of the app
