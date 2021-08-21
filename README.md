@@ -1,4 +1,4 @@
-# kitabi dunia
+# kitabi dunia(Android App)
 
 link to the app:-  https://drive.google.com/file/d/1PgYE0T9NojszBj2MfgNqM9f-XMCk371t/view?usp=sharing
 A project for selling and purchasing old books.
