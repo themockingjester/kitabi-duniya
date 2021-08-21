@@ -13,4 +13,4 @@ A project for selling and purchasing old books.
 ![alt text](https://github.com/themockingjester/kitabi-duniya/blob/main/kitabi%20duniya%20shots/kitabi6.jpeg)
 ![alt text](https://github.com/themockingjester/kitabi-duniya/blob/main/kitabi%20duniya%20shots/kitabi7.jpeg)
 ![alt text](\https://github.com/themockingjester/kitabi-duniya/blob/main/kitabi%20duniya%20shots/kitabi8.jpeg)
-![alt text](\https://github.com/themockingjester/kitabi-duniya/blob/main/kitabi%20duniya%20shots/kitabi9.jpeg)
+![alt text](https://github.com/themockingjester/kitabi-duniya/blob/main/kitabi%20duniya%20shots/kitabi9.jpeg)
