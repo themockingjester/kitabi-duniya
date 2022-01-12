@@ -1,6 +1,5 @@
 # kitabi dunia( Android App)
 
-
 link to the app:-  https://drive.google.com/file/d/10l0eBTOt-Lmwp8I5wBUrPbzLxr5ebxCD/view?usp=sharing
 
 link to demo video:- https://drive.google.com/file/d/1_f7r69fIW-LWhC7jyx7xSuvap2vyFeM0/view?usp=sharing
